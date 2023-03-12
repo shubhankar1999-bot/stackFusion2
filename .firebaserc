@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "stkfusion-1cac0": {
+      "hosting": {
+        "stackFusion": [
+          "stkfusion-1cac0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "stkfusion-1cac0"
+  }
+}
